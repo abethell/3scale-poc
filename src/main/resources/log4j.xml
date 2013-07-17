@@ -19,7 +19,7 @@
         <level value="INFO"/>
     </logger>
 
-    <logger name="com.informa">
+    <logger name="com.andy">
         <level value="INFO"/>
     </logger>
 
